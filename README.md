@@ -43,6 +43,6 @@ THEN I am taken to the corresponding section of the README
 Submission:
 * Link to the walkthrough video demonstrating the functionality of the application: 
 
-* The sample README.md file for a project repository generated using my application: 
+* Screenshot of the sample README.md file based on this project generated using my application found in my github repo: 
 
 * My GitHub repository: https://github.com/dialaobeid/My-README-Generator/tree/main
