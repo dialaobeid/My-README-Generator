@@ -1,6 +1,7 @@
 # My-README-Generator
 
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
+The goal of this challenge is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). 
+I reviewed the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
 
 The application will be invoked by using the following command:
 
@@ -8,12 +9,12 @@ The application will be invoked by using the following command:
 node index.js
 ```
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
+Because this application won’t be deployed, I will provide a link to a walkthrough video that demonstrates its functionality of this challenge and it to this README file and challenge submission.
 
 
 ## User Story
 
-```md
+```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
@@ -21,7 +22,7 @@ SO THAT I can quickly create a professional README for a new project
 
 ## Acceptance Criteria
 
-```md
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -38,3 +39,10 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+Submission:
+* Link to the walkthrough video demonstrating the functionality of the application: 
+
+* The sample README.md file for a project repository generated using my application: 
+
+* My GitHub repository: https://github.com/dialaobeid/My-README-Generator/tree/main
