@@ -41,7 +41,7 @@ THEN I am taken to the corresponding section of the README
 ```
 
 Submission:
-* Link to the walkthrough video demonstrating the functionality of the application: 
+* Link to the walkthrough video demonstrating the functionality of the application: https://drive.google.com/file/d/16-HvjqDACdwb7hjYY33c_HdU63Ilhqha/view?usp=sharing
 
 * Screenshot of the sample README.md file based on this project generated using my application found in my github repo: 
 ![Alt Text](/Develop/images/Sample%20README%20screenshot.png)
