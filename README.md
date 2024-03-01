@@ -44,5 +44,6 @@ Submission:
 * Link to the walkthrough video demonstrating the functionality of the application: 
 
 * Screenshot of the sample README.md file based on this project generated using my application found in my github repo: 
+![Alt Text](/Develop/images/Sample%20README%20screenshot.png)
 
 * My GitHub repository: https://github.com/dialaobeid/My-README-Generator/tree/main
